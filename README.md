@@ -1,4 +1,4 @@
 ## gsoc-fashion-mnist
 GSoC-style Fashion-MNIST classification project using TensorFlow/Keras..
-## features:
+## features:-
 it is east to fashion selection on machine learning  developments
