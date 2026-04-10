@@ -4,5 +4,3 @@ GSoC-style Fashion-MNIST classification project using TensorFlow/Keras.
 it is east to fashion selection on machine learning  developments.
   ## features
 it is east to fashion selection on machine learn
-
- 
